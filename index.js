@@ -1,19 +1,19 @@
 // Your code here
 
 class Cat {
-  constructor(){
-    
+  constructor(name){
+    this.name = name
   }
 }
 
 class Dog {
-  constructor(){
-    
+  constructor(name){
+    this.name = name
   }
 }
 
 class Bird {
-  constructor(){
-    
+  constructor(name){
+    this.name = name
   }
 }

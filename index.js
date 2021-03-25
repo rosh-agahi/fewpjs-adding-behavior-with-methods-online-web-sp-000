@@ -5,3 +5,15 @@ class Cat {
     
   }
 }
+
+class Dog {
+  constructor(){
+    
+  }
+}
+
+class Bird {
+  constructor(){
+    
+  }
+}
